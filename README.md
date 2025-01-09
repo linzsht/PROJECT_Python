@@ -33,8 +33,14 @@ python -m venv venv
 - **Sous Windows** :
   ```bash
   venv\Scripts\activate
+   ```
+### 4. Installer les Dépendances
+Installez toutes les bibliothèques nécessaires avec la commande suivante :
+```bash
+pip install -r requirements.txt
+```
 
-### 4. Lancer l'Application
+### 5. Lancer l'Application
 Pour démarrer l'application Streamlit et accéder à l'interface utilisateur, utilisez la commande suivante :
 streamlit run app.py
 
