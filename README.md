@@ -23,12 +23,12 @@ Commencez par cloner le projet depuis GitHub :
 ```bash
 git clone https://github.com/<votre-utilisateur>/<votre-repository>.git
 cd <votre-repository>
-
+```
 ### 2. Créer un Environnement Virtuel
 Créez un environnement virtuel pour isoler les dépendances :
 ```bash
 python -m venv venv
-
+```
 ### 3. Activer l'Environnement Virtuel
 - **Sous Windows** :
   ```bash
