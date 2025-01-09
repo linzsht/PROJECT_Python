@@ -42,5 +42,7 @@ pip install -r requirements.txt
 
 ### 5. Lancer l'Application
 Pour démarrer l'application Streamlit et accéder à l'interface utilisateur, utilisez la commande suivante :
+````bash
 streamlit run app.py
+```
 
